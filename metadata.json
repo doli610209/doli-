@@ -1,0 +1,7 @@
+{
+  "name": "增肌減重飲食紀錄",
+  "description": "An intelligent nutrition tracker that uses Gemini to analyze your meals through text or photos, helping you stay on track with your health goals.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
